@@ -1,0 +1,53 @@
+body{
+    background-color: cornflowerblue;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color: rgb(2, 223, 193);
+    font-family: cursive;
+}
+.all{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    max-width: 80%;
+    margin: 10% auto;
+}
+
+.one,.two,.three {
+    background-color:  #686804;
+    margin: 0;
+    border: 1px solid black;
+}
+.three{
+    margin-bottom: 100px;
+}
+.four,.five,.six{
+    background-color: #686804;
+    margin: 0;
+    border: 1px solid black;
+}
+.six{
+    margin-bottom: 100px;
+}
+.seven,.eight,.nine{
+    background-color:  #686804;
+    margin: 0;
+    border: 1px solid black;
+}
+.nine{
+    margin-bottom: 100px;
+}
+.ten,.eleven,.twelve{
+    background-color:  #686804;
+    margin: 0;
+    border: 1px solid black;
+}
+.twelve{
+    margin-bottom: 100px;
+}
+
+.word{
+    color: black;
+}
