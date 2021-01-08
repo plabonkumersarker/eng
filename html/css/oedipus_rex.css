@@ -51,3 +51,9 @@ p{
 .word{
     color: black;
 }
+.photo{
+    width: 50%;
+}
+footer{
+    text-align: center;
+}
